@@ -11,7 +11,7 @@
 
 <h2> 📃 Certifications </h2>
 
-- <b> Google CyberSecurity - https://rb.gy/9vn41i </b>
+- <b> [Google CyberSecurity](https://rb.gy/9vn41i) </b>
 - <b> Security +   Expected by Dec,2023 </b>
 - <b> Microsoft Azure Fundamentals AZ-900 - https://rb.gy/g15mwi </b>
 - <b> AWS Certified Cloud Practitioner 
