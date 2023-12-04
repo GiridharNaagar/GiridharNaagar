@@ -11,14 +11,14 @@
 
 <h2> 📃 Certifications </h2>
 
-- <b> [Google CyberSecurity](https://rb.gy/9vn41i) </b>
+- [Google CyberSecurity](https://rb.gy/9vn41i) 
 - <b> Security +   Expected by Dec,2023 </b>
-- <b> Microsoft Azure Fundamentals AZ-900 - https://rb.gy/g15mwi </b>
+- [Microsoft Azure Fundamentals AZ-900](https://rb.gy/g15mwi)
 - <b> AWS Certified Cloud Practitioner 
 [AWS Certified Cloud Practitioner (CLF-C01)-4](https://github.com/GiridharNaagar/Giridhar-Nagar/assets/114043681/dc2388f3-b06b-47ca-979a-8a88d7308f96) </b>
-- <b> Security Information and Event Management - https://rb.gy/v9jymw </b>
-- <b> Learning Linux for LFCA Certification - https://rb.gy/cvkyr5 </b>
-- <b> Certified Network Security Specialist - https://rb.gy/2d6ty3 </b>
+- [Security Information and Event Management](https://rb.gy/v9jymw)
+- [Learning Linux for LFCA Certification](https://rb.gy/cvkyr5)
+- [Certified Network Security Specialist](https://rb.gy/2d6ty3)
 
 <h2> 📖 Education </h2>
 
