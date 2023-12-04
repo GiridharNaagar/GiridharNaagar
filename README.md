@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects </h2>
 
-- <b> [Active Directory Home Lab](https://github.com/GiridharNaagar/Active-Directory-Home-Lab-)</b>
+- [Active Directory Home Lab](https://github.com/GiridharNaagar/Active-Directory-Home-Lab-)
 - <b> Vulnerability Management Lab </b>
 - <b> File Integrity Monitor </b>
 - <b> Analyse Network Traffic w]th TCP Dump </b>
