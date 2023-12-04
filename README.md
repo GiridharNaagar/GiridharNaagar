@@ -5,7 +5,7 @@
 - [Active Directory Home Lab](https://github.com/GiridharNaagar/Active-Directory-Home-Lab-)
 - <b> Vulnerability Management Lab </b>
 - <b> File Integrity Monitor </b>
-- <b> Analyse Network Traffic w]th TCP Dump </b>
+- <b> Analyse Network Traffic with TCP Dump </b>
 - <b> Gained Remote Access using Ngrok </b>
 - <b> Developed Android, Windows Payloads to Exploit Vulnerabilities </b>
 
@@ -14,7 +14,7 @@
 - [Google CyberSecurity](https://rb.gy/9vn41i) 
 - <b> Security +   Expected by Dec,2023 </b>
 - [Microsoft Azure Fundamentals AZ-900](https://rb.gy/g15mwi)
-- <b> AWS Certified Cloud Practitioner (![AWS Certified Cloud Practitioner (CLF-C01)](https://github.com/GiridharNaagar/GiridharNaagar/assets/114043681/28634a03-710c-457a-83b4-d42a59bac5b5)
+- <b> AWS Certified Cloud Practitioner </b>
 - [Security Information and Event Management](https://rb.gy/v9jymw)
 - [Learning Linux for LFCA Certification](https://rb.gy/cvkyr5)
 - [Certified Network Security Specialist](https://rb.gy/2d6ty3)
