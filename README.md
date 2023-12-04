@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects </h2>
 
 - [Active Directory Home Lab](https://github.com/GiridharNaagar/Active-Directory-Home-Lab-)
-- <b> Vulnerability Management Lab </b>
+- [Vulnerability Management Lab](https://github.com/GiridharNaagar/Vulnerability-Management-Lab-)
 - <b> File Integrity Monitor </b>
 - <b> Analyse Network Traffic with TCP Dump </b>
 - <b> Gained Remote Access using Ngrok </b>
