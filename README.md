@@ -28,6 +28,17 @@
 <b> Hindustan University </b> - Professional Diploma in CyberSecurity and Management
 
 <h2> 🖥️ Experience </h2>
+
+ <h3> IT Security Analyst - Habilesec </h3>
+
+   <b> 1. Developed scripts using python, creating Backdoors - executing of remote commands,implementation of skeletion for server, handling execeptions, Backdoor for Windows, Linux and OS X with a probability of 80% success rate </b> 
+
+   <b> 2. Performing VAPT for scanning and identifying the root cause using Nessus, PCAP analysis using Wireshark - sniffing network traffic for issues, and troubleshooting </b>
+
+   <b> 3. Conducted SIEM health checks on log sources, identifying and resolving the issues ( Windows Application, Sys Logs) resulting in a 40% reduction in data anomilies and improved data accuracy for quality analysis </b>
+
+
+   
  <h3>Bug Bounty Intern - Razz Security </h3>
  
    </b> 1. Influenced in workshops and training sessions on the different types of XSS vulnerabilities and best practices for secure coding, enhancing overall awareness and minimizing potential threats.</b> 
