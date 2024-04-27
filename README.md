@@ -39,7 +39,7 @@
 
 
    
- <h3>Penetration Testing Intern - Razz Security </h3>
+ <h3>Web Pentester Intern - Razz Security </h3>
  
    </b> 1. Influenced in workshops and training sessions on the different types of XSS vulnerabilities and best practices for secure coding, enhancing overall awareness and minimizing potential threats.</b> 
  
