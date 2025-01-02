@@ -13,7 +13,7 @@
 - [Google CyberSecurity](https://rb.gy/9vn41i) 
 - [CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/18287277/CompTIA.Security%2B.ce.certificate.pdf)
 - [Microsoft Azure Fundamentals AZ-900](https://rb.gy/g15mwi)
-- <b> AWS Certified Cloud Practitioner </b>
+- [AWS Certified Cloud Practitioner certificate.pdf](https://github.com/userattachments/files/18287288/AWS.Certified.Cloud.Practitioner.certificate.pdf)
 - [Security Information and Event Management](https://rb.gy/v9jymw)
 - [Learning Linux for LFCA Certification](https://rb.gy/cvkyr5)
 - [Certified Network Security Specialist](https://rb.gy/2d6ty3)
@@ -21,12 +21,13 @@
 <h2> 📖 Education </h2>
 
 <h3> Master's in CyberSecurity  - University of Maryland Baltimore County (Jan 2022 - May 2024) </h3> 
-  <b> Courses: Enterprise Security, Law & Policy, Warfare, Risk Analysis & Compliance, Cybersecurity Practitioner Development   Lab, Cybercrime Investigations, Cybersecurity Project, Intro to Digital Forensics, Intro to Cybersecurity </b>
+     <b> Courses: Enterprise Security, Law & Policy, Warfare, Risk Analysis & Compliance, Cybersecurity Practitioner Development   Lab, Cybercrime Investigations, Cybersecurity Project, Intro to Digital Forensics, Intro to Cybersecurity </b>
    
 <h3> Bachelor's Degree in Computer Science - Hindustan University (Jul 2017 - May 2021) </h3> 
-  <b> Courses: Artificial Intelligence, Computer Networks, Computer Programming, Cryptography and Network Security, Cyber Forensics, Cyber Security, Data Structures, Data Warehousing and Data Mining, DBMS</b>  
+     <b> Courses: Artificial Intelligence, Computer Networks, Computer Programming, Cryptography and Network Security, Cyber Forensics, Cyber Security, Data Structures, Data Warehousing and Data Mining, DBMS</b>  
    
 <h3> Professional Diploma in CyberSecurity and Management - Hindustan University (Mar 2020 - May 2021) </h3>
+
 
 <h2> 🖥️ Experience </h2> 
 
@@ -48,7 +49,6 @@
    <b> 3.  Scheduled SIEM health checks on log sources, which reduced anomalies by 40% and enhanced data accuracy for improved quality assurance </b>
 
 
-   
  <h3> Web Pentester Intern - Razz Security (May 2018 - Aug 2018) </h3>
  
    </b> 1. Influenced in workshops and training sessions on the different types of XSS vulnerabilities and best practices for secure coding, enhancing overall awareness and minimizing potential threats.</b> 
