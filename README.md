@@ -21,12 +21,13 @@
 
 <h2> 📖 Education </h2>
 
-<h3> University of Maryland Baltimore County  - Master's In Professional Studies in CyberSecurity  (Jan 2022 - May 2024) </h3> 
-   <b> Courses: Enterprise Security, Law & Policy, Warfare, Risk Analysis & Compliance, Cybersecurity Practitioner Development   Lab, Cybercrime Investigations, Cybersecurity Project, Intro to Digital Forensics, Intro to Cybersecurity </b>
+<h3> Master's in CyberSecurity  - University of Maryland Baltimore County (Jan 2022 - May 2024) </h3> 
+  <b> Courses: Enterprise Security, Law & Policy, Warfare, Risk Analysis & Compliance, Cybersecurity Practitioner Development   Lab, Cybercrime Investigations, Cybersecurity Project, Intro to Digital Forensics, Intro to Cybersecurity </b>
    
-<h3> Hindustan University - Bachelor's Degree in Computer Science  </b> 
+<h3> Bachelor's Degree in Computer Science - Hindustan University (Jul 2017 - May 2021) </h3> 
+  <b> Courses: Artificial Intelligence, Computer Networks, Computer Programming, Cryptography and Network Security, Cyber Forensics, Cyber Security, Data Structures, Data Warehousing and Data Mining, DBMS</b>  
    
-<b> Hindustan University </b> - Professional Diploma in CyberSecurity and Management
+<h3> Professional Diploma in CyberSecurity and Management - Hindustan University (Mar 2020 - May 2021) </h3>
 
 <h2> 🖥️ Experience </h2> 
 
