@@ -59,6 +59,9 @@
    
    </b> 4. Engaged in training sessions with group of 50 fellow interns and partake in different practice sessions.</b>
 
+<h2> Skills </h2> 
+  <b> Python, SQL, C, Shell Scripting, Nessus, Splunk, Qualys, Metasploit, Burp Suite, AWS, Azure, Firewalls, IDS, IPS, Packet Analysis, Nmap, Wireshark, HIDS, Endpoint Protection, Secure Endpoint Configuration, IAM, Cloud Security, GDPR, NIST Cybersecurity Framework, Incident Response, Threat Hunting, Forensic Analysis, Security Awareness </b>
+
  <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
