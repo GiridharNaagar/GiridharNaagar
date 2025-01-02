@@ -21,25 +21,34 @@
 
 <h2> 📖 Education </h2>
 
-<b> University of Maryland Baltimore Country </b> - Master's In Professional Studies in CyberSecurity
+<h3> University of Maryland Baltimore County </h3> - Master's In Professional Studies in CyberSecurity
    
  <b> Hindustan University </b> - Bachelor's Degree in Computer Science
    
 <b> Hindustan University </b> - Professional Diploma in CyberSecurity and Management
 
-<h2> 🖥️ Experience </h2>
+<h2> 🖥️ Experience </h2> 
+
+ <h3> Cybersecurity Extern - Mastercard Inc (Forage) </h3>
+
+   <b> 1. Acted as an analyst in a job simulation for Mastercard's Security Awareness Team, gaining practical experience in cybersecurity operations and contributing insights to strengthen security measures </b> 
+
+   <b> 2. Identified and reported security threats, including phishing attempts, to mitigate potential cyber risks and improve overall network safety for Mastercard </b>
+
+   <b> 3. Assessed business units to identify gaps in security training, resulting in the development and deployment of customized training programs to bolster team security awareness and compliance </b>
+
 
  <h3> IT Security Analyst - Habilesec </h3>
 
-   <b> 1. Developed scripts using python, creating Backdoors - executing of remote commands,implementation of skeletion for server, handling execeptions, Backdoor for Windows, Linux and OS X with a probability of 80% success rate </b> 
+   <b> 1. Developed Python scripts to create backdoors for Windows and Linux systems, achieving an 80% success rate in remote command execution </b> 
 
-   <b> 2. Performing VAPT for scanning and identifying the root cause using Nessus, PCAP analysis using Wireshark - sniffing network traffic for issues, and troubleshooting </b>
+   <b> 2. Conducted vulnerability assessment and penetration testing (VAPT) using Nessus, identifying and mitigating critical vulnerabilities and reducing risks by 60% to ensure compliance with industry standards </b>
 
-   <b> 3. Conducted SIEM health checks on log sources, identifying and resolving the issues ( Windows Application, Sys Logs) resulting in a 40% reduction in data anomilies and improved data accuracy for quality analysis </b>
+   <b> 3.  Scheduled SIEM health checks on log sources, which reduced anomalies by 40% and enhanced data accuracy for improved quality assurance </b>
 
 
    
- <h3>Web Pentester Intern - Razz Security </h3>
+ <h3> Web Pentester Intern - Razz Security </h3>
  
    </b> 1. Influenced in workshops and training sessions on the different types of XSS vulnerabilities and best practices for secure coding, enhancing overall awareness and minimizing potential threats.</b> 
  
