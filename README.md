@@ -4,7 +4,6 @@
 
 - [Active Directory Home Lab](https://github.com/GiridharNaagar/Active-Directory-Home-Lab-)
 - [Vulnerability Management Lab](https://github.com/GiridharNaagar/Vulnerability-Management-Lab)
-- <b> File Integrity Monitor </b>
 - <b> Analyse Network Traffic with TCP Dump </b>
 - <b> Gained Remote Access using Ngrok </b>
 - <b> Developed Android, Windows Payloads to Exploit Vulnerabilities </b>
@@ -12,7 +11,7 @@
 <h2> 📃 Certifications </h2>
 
 - [Google CyberSecurity](https://rb.gy/9vn41i) 
-- <b> Security +  </b>
+- [CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/18287277/CompTIA.Security%2B.ce.certificate.pdf)
 - [Microsoft Azure Fundamentals AZ-900](https://rb.gy/g15mwi)
 - <b> AWS Certified Cloud Practitioner </b>
 - [Security Information and Event Management](https://rb.gy/v9jymw)
@@ -31,7 +30,7 @@
 
 <h2> 🖥️ Experience </h2> 
 
- <h3> Cybersecurity Extern - Mastercard Inc (Forage) </h3>
+ <h3> Cybersecurity Extern - Mastercard Inc (Forage) (Jun 2024 - Jul 2024) </h3>
 
    <b> 1. Acted as an analyst in a job simulation for Mastercard's Security Awareness Team, gaining practical experience in cybersecurity operations and contributing insights to strengthen security measures </b> 
 
@@ -40,7 +39,7 @@
    <b> 3. Assessed business units to identify gaps in security training, resulting in the development and deployment of customized training programs to bolster team security awareness and compliance </b>
 
 
- <h3> IT Security Analyst - Habilesec </h3>
+ <h3> IT Security Analyst - Habilesec (Jan 2021 - Dec 2021) </h3>
 
    <b> 1. Developed Python scripts to create backdoors for Windows and Linux systems, achieving an 80% success rate in remote command execution </b> 
 
@@ -50,7 +49,7 @@
 
 
    
- <h3> Web Pentester Intern - Razz Security </h3>
+ <h3> Web Pentester Intern - Razz Security (May 2018 - Aug 2018) </h3>
  
    </b> 1. Influenced in workshops and training sessions on the different types of XSS vulnerabilities and best practices for secure coding, enhancing overall awareness and minimizing potential threats.</b> 
  
