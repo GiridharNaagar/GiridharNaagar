@@ -21,9 +21,10 @@
 
 <h2> 📖 Education </h2>
 
-<h3> University of Maryland Baltimore County </h3> - Master's In Professional Studies in CyberSecurity
+<h3> University of Maryland Baltimore County  - Master's In Professional Studies in CyberSecurity  (Jan 2022 - May 2024) </h3> 
+   <b> Courses: Enterprise Security, Law & Policy, Warfare, Risk Analysis & Compliance, Cybersecurity Practitioner Development   Lab, Cybercrime Investigations, Cybersecurity Project, Intro to Digital Forensics, Intro to Cybersecurity </b>
    
- <b> Hindustan University </b> - Bachelor's Degree in Computer Science
+<h3> Hindustan University - Bachelor's Degree in Computer Science  </b> 
    
 <b> Hindustan University </b> - Professional Diploma in CyberSecurity and Management
 
