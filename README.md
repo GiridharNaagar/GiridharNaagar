@@ -15,7 +15,7 @@
    <b> 3. Assessed business units to identify gaps in security training, resulting in the development and deployment of customized training programs to bolster team security awareness and compliance </b>
 
 
- <h3> IT Security Analyst - Habilesec (Jan 2021 - Dec 2021) </h3>
+ <h3> Information Security Analyst - Habilesec (Jan 2021 - Dec 2021) </h3>
  
    <b> 1. Developed Python scripts to create backdoors for Windows and Linux systems, achieving an 80% success rate in remote command execution </b> 
 
@@ -24,7 +24,7 @@
    <b> 3.  Scheduled SIEM health checks on log sources, which reduced anomalies by 40% and enhanced data accuracy for improved quality assurance </b>
 
 
- <h3> Web Pentester Intern - Razz Security (May 2018 - Aug 2018) </h3>
+ <h3> Web Security Analyst - Razz Security (May 2018 - Aug 2018) </h3>
  
    <b> 1. Influenced in workshops and training sessions on the different types of XSS vulnerabilities and best practices for secure coding, enhancing overall awareness and minimizing potential threats.</b> 
  
