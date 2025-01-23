@@ -48,6 +48,7 @@
 - [CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/18287277/CompTIA.Security%2B.ce.certificate.pdf)
 - [Microsoft Azure Fundamentals AZ-900](https://rb.gy/g15mwi)
 - [AWS Certified Cloud Practitioner certificate.pdf](https://github.com/userattachments/files/18287288/AWS.Certified.Cloud.Practitioner.certificate.pdf)
+- [AWS Certified AI Practitioner certificate.pdf](https://github.com/user-attachments/files/18516358/AWS.Certified.AI.Practitioner.certificate.pdf)
 - [Security Information and Event Management](https://rb.gy/v9jymw)
 - [Learning Linux for LFCA Certification](https://rb.gy/cvkyr5)
 - [Certified Network Security Specialist](https://rb.gy/2d6ty3)
